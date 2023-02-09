@@ -1,0 +1,5 @@
+package org.maox.artcard;
+
+public class Card {
+
+}

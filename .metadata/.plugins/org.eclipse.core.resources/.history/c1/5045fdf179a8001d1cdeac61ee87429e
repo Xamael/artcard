@@ -1,0 +1,69 @@
+package org.maox.artcard;
+
+/**
+ * Card
+ * @author Alex
+ *
+ */
+public class Card {
+	private String cardName;
+	private String faction;
+	private String artist;
+	private String url;
+
+	/**
+	 * @return the cardName
+	 */
+	public String getCardName() {
+		return cardName;
+	}
+
+	/**
+	 * @param cardName the cardName to set
+	 */
+	public void setCardName(String cardName) {
+		this.cardName = cardName;
+	}
+
+	/**
+	 * @return the faction
+	 */
+	public String getFaction() {
+		return faction;
+	}
+
+	/**
+	 * @param faction the faction to set
+	 */
+	public void setFaction(String faction) {
+		this.faction = faction;
+	}
+
+	/**
+	 * @return the artist
+	 */
+	public String getArtist() {
+		return artist;
+	}
+
+	/**
+	 * @param artist the artist to set
+	 */
+	public void setArtist(String artist) {
+		this.artist = artist;
+	}
+
+	/**
+	 * @return the url
+	 */
+	public String getUrl() {
+		return url;
+	}
+
+	/**
+	 * @param url the url to set
+	 */
+	public void setUrl(String url) {
+		this.url = url;
+	}
+}

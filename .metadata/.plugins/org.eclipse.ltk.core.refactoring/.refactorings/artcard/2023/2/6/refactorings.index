@@ -1,0 +1,10 @@
+1675940266563	Move 'log4j2.xml' to 'resources'
+1675942081469	Delete element
+1675942085408	Delete element
+1675943907299	Rename package 'org.maox.artcard.gwent'
+1675945023413	Encapsulate field 'cardName'
+1675945032487	Encapsulate field 'faction'
+1675945037406	Encapsulate field 'artist'
+1675945041376	Encapsulate field 'url'
+1675947717646	Encapsulate field 'index'
+1675948334148	Encapsulate field 'urlImage'

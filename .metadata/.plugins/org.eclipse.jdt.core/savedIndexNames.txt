@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+D:\alex\workspace\artcard\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1602128660.index
+2914758395.index
+822544566.index
+931320763.index
+1099203085.index
+2902699794.index
+3503626162.index
